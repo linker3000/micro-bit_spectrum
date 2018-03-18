@@ -19,3 +19,4 @@ Beware of buying the MSGEQ7 chip on ebay - some have turned out to be faulty and
 ![Image](zbit01.jpg)
 *On zbit:builder*
 
+(That's some mighty [fine/scary - insert as appropriate] circuit squishing going on there.)
