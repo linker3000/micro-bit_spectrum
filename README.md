@@ -10,7 +10,7 @@ The MSGEQ7 chip is available from Sparkfun and regional/global agents.
 * https://www.sparkfun.com/products/10468
 * https://www.sparkfun.com/datasheets/Components/General/MSGEQ7.pdf
 
-Beware of buying the MSGEQ7 chip on ebay - some have turned out to be faulty and are suspected of being manufacturing rejects. 
+Beware of buying the MSGEQ7 chip on ebay - some/many have turned out to be faulty and it's suspected that they are manufacturing rejects. 
 
 *Schematic*
 ![Image](MSGEQ7_Breakout_Board.png)
