@@ -12,11 +12,12 @@ The MSGEQ7 chip is available from Sparkfun and regional/global agents.
 
 Beware of buying the MSGEQ7 chip on ebay - some have turned out to be faulty and are suspected of being manufacturing rejects. 
 
-![Image](MSGEQ7_Breakout_Board.png)
 *Schematic*
+![Image](MSGEQ7_Breakout_Board.png)
 
 
-![Image](zbit01.jpg)
 *On zbit:builder*
+![Image](zbit01.jpg)
+
 
 (That's some mighty [fine/scary - insert as appropriate] circuit squishing going on there.)
